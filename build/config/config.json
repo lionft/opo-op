@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x4Ed9f39E20848Dba971E16eBf805754D7a54F059",
+    "OWNER_ADDRESS": "0xd1bAf5C017e8BaB2ADB7599c497EF19A4B2721e1",
+
+  "SCAN_LINK": "https://rinkeby.etherscan.io/",
+  "NETWORK": {
+    "NAME": "Rinkeby test network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Babblinng Baboom Club",
+  "SYMBOL": "BBC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 200000000000,
+  "COST1": 60000000000000000,
+  "DISPLAY_COST": 0.015,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/BBC",
+  "SHOW_BACKGROUND": true
+}
